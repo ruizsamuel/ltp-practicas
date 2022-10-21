@@ -1,4 +1,4 @@
-package practica1;
+package practica3;
 /**
  * class Triangle.
  * 
